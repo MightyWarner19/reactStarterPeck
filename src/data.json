@@ -1,0 +1,101 @@
+{
+    "categories": [
+      {
+        "id": "tech",
+        "name": "Technology",
+        "jobs": [
+          {
+            "id": "dev1",
+            "title": "Software Engineer",
+            "description": "We are looking for a talented software engineer to join our innovative tech team...",
+            "requirements": "Bachelor's degree in Computer Science...",
+            "location": "San Francisco, CA",
+            "salary": "$100,000 - $120,000 per year",
+            "applyLink": "https://example.com/apply/tech/dev1"
+          },
+          {
+            "id": "dev2",
+            "title": "Frontend Developer",
+            "description": "Join our dynamic frontend team to create amazing user experiences...",
+            "requirements": "Solid understanding of HTML, CSS, JavaScript...",
+            "location": "New York, NY",
+            "salary": "$90,000 - $110,000 per year",
+            "applyLink": "https://example.com/apply/tech/dev2"
+          }
+        ]
+      },
+      {
+        "id": "marketing",
+        "name": "Marketing",
+        "jobs": [
+          {
+            "id": "mktg1",
+            "title": "Digital Marketing Specialist",
+            "description": "Help us grow our online presence through strategic digital marketing campaigns...",
+            "requirements": "Bachelor's degree in Marketing or related field...",
+            "location": "Los Angeles, CA",
+            "salary": "$70,000 - $90,000 per year",
+            "applyLink": "https://example.com/apply/marketing/mktg1"
+          },
+          {
+            "id": "mktg2",
+            "title": "Content Writer",
+            "description": "Craft compelling content that resonates with our target audience...",
+            "requirements": "Excellent writing and editing skills...",
+            "location": "Chicago, IL",
+            "salary": "$60,000 - $80,000 per year",
+            "applyLink": "https://example.com/apply/marketing/mktg2"
+          }
+        ]
+      },
+      {
+        "id": "design",
+        "name": "Design",
+        "jobs": [
+          {
+            "id": "des1",
+            "title": "UI/UX Designer",
+            "description": "Create visually appealing and user-friendly interfaces...",
+            "requirements": "Strong portfolio showcasing UI/UX design skills...",
+            "location": "Seattle, WA",
+            "salary": "$80,000 - $100,000 per year",
+            "applyLink": "https://example.com/apply/design/des1"
+          },
+          {
+            "id": "des2",
+            "title": "Graphic Designer",
+            "description": "Design engaging graphics for marketing materials...",
+            "requirements": "Proficiency in Adobe Creative Suite...",
+            "location": "Miami, FL",
+            "salary": "$50,000 - $70,000 per year",
+            "applyLink": "https://example.com/apply/design/des2"
+          }
+        ]
+      },
+      {
+        "id": "finance",
+        "name": "Finance",
+        "jobs": [
+          {
+            "id": "fin1",
+            "title": "Financial Analyst",
+            "description": "Analyze financial data and provide insights...",
+            "requirements": "Bachelor's degree in Finance or related field...",
+            "location": "New York, NY",
+            "salary": "$70,000 - $90,000 per year",
+            "applyLink": "https://example.com/apply/finance/fin1"
+          },
+          {
+            "id": "fin2",
+            "title": "Accountant",
+            "description": "Manage financial transactions and prepare reports...",
+            "requirements": "CPA certification is a plus...",
+            "location": "Chicago, IL",
+            "salary": "$60,000 - $80,000 per year",
+            "applyLink": "https://example.com/apply/finance/fin2"
+          }
+        ]
+      }
+    ]
+  }
+  

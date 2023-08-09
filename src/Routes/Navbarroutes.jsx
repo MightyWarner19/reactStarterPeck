@@ -10,8 +10,9 @@ import About2 from '../Components/Navbar_Components/About/About2';
 import Services3 from '../Components/Navbar_Components/Services/Services3';
 import Services2 from '../Components/Navbar_Components/Services/Services2';
 import Services1 from '../Components/Navbar_Components/Services/Services1';
-import Jobboard from '../Components/Navbar_Components/JobBoard/Jobboard';
+
 import Careers from '../Components/Navbar_Components/JobBoard/Careers';
+import JobCategory from '../Components/JobCategory';
 
 const Navbarroutes = () => {
   return (
@@ -22,7 +23,7 @@ const Navbarroutes = () => {
       <Route path="/about" element={<About />} />
       <Route path="/services" element={<Services />} />
       <Route path="/portfolio" element={<Portfolio />} />
-      <Route path="/jobBoard" element={<Jobboard />} />
+      <Route path="/jobBoard" element={<JobCategory />} />
       <Route path='/careers' element={<Careers />}></Route>
       <Route path="/services/service1" element={<Services1 />} />
       <Route path="/services/service2" element={<Services2 />} />

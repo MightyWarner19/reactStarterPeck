@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "firstName": "Data",
+      "lastName": "Done",
+      "dob": "2001-01-19",
+      "age": "22years",
+      "email": "qw@qw.com",
+      "password": "Data@123456",
+      "id": 1
+    }
+   
+  ]
+}
